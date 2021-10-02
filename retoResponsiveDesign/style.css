@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+
+html {
+    font-size: 62.5%;
+}
+
+.containerHeader{
+    background-color: crimson;
+    height: 20%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.logo{
+    width: 16rem;
+    height: 10vh;
+}
+
+.nav{
+    text-align: auto;
+    list-style: none ;
+}
+
+.nav li{
+    margin: 15px 15px;
+    display: inline-block;
+    font-size: 1.8rem;
+    font-style: normal;
+    filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.788))
+    drop-shadow(1px 1px 0 rgba(0, 0, 0, 0.788))
+    drop-shadow(-1px 1px 0 #000)
+    drop-shadow(1px -1px 0 rgba(0, 0, 0, 0.808));
+    color: yellow;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.asideContainer{
+    width: 40%;
+    height: 80%;
+    }
+
+aside .sideBarPartnerOne{  
+    width: 100%;
+    height: 25%;
+    background-color: cornflowerblue;
+}
+.todoroki{
+    height: 20vh;
+    display: block;
+    margin: auto;
+}
+aside .sideBarPartnerTwo{  
+    width: 100%;
+    background-color: cornflowerblue;
+    height: 25%
+
+}
+.iida{
+    height: 20vh;
+    display: block;
+    margin: auto;
+}
+aside .sideBarPartnerThree{  
+    width: 100%;
+    height: 25%;
+    background-color: gold;
+
+
+}
+.redRiot{
+    height: 20vh;
+    display: block;
+    margin: auto;
+}
+
+aside .sideBarPartnerFour{  
+    width: 100%;
+    height: 25%;
+    background-color: gold;
+    
+    
+}
+
+.kaminari{
+    height: 20vh;
+    display: block;
+    margin: auto;
+}
+
+.mainContainer{
+    height: 80%;
+    width: 60%;
+}
+.deku{
+    background-color: cornflowerblue;
+    width: auto;
+    height:100%;
+    width: 100%;
+}
+.dekuOne{
+    height: 40vh;
+    display:block;
+    margin: auto;
+}
+.bakugo{
+    background-color: gold;
+    width: auto;
+    height:100%;
+    width: 100%;
+}
+.bakugoOne{
+    height: 40vh;
+    display:block;
+    margin: auto;
+}

@@ -1,0 +1,83 @@
+.main{
+    display: inline-flex;
+}
+
+.asideContainer{
+    width: 100vw;
+    height:30vh;
+    display: inline-flex;
+}
+aside .sideBarPartnerOne{  
+    width: 25vw;
+    height: 30vh;
+    background-color: cornflowerblue;
+}
+.todoroki{
+    height: 30vh;
+    display: block;
+    margin: auto;
+}
+aside .sideBarPartnerTwo{  
+    width: 25vw;
+    background-color: cornflowerblue;
+    height: 30vh;
+
+}
+.iida{
+    height: 30vh;
+    display: block;
+    margin: auto;
+}
+aside .sideBarPartnerThree{  
+    width: 25vw;
+    height: 30vh;
+    background-color: gold;
+
+
+}
+.redRiot{
+    height: 30vh;
+    display: block;
+    margin: auto;
+}
+
+aside .sideBarPartnerFour{  
+    width: 25vw;
+    height: 30vh;
+    background-color: gold;
+    
+    
+}
+
+.kaminari{
+    height: 30vh;
+    display: block;
+    margin: auto;
+}
+
+.mainContainer{
+    width: 100vw;
+    height:60vh;
+    display: inline-flex;
+}
+
+.deku{
+    background-color: cornflowerblue;
+    width: 50vw;
+    height:60vh;
+}
+.dekuOne{
+    height: 60vh;
+    display:block;
+    margin: auto;
+}
+.bakugo{
+    background-color: gold;
+    width: 50vw;
+    height:60vh;
+}
+.bakugoOne{
+    height: 60vh;
+    display:block;
+    margin: auto;
+}
