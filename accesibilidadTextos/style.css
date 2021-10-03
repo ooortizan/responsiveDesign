@@ -8,3 +8,5 @@ h1{
 p{
     font-size: 1.8rem;
 }
+
+/* recordar siempre medidas relativas como rem por temas de accesibilidad a personas que necesiten ayuda para ver nuestro contenido */
